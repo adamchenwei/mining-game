@@ -1,4 +1,7 @@
 # setup
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/adamchenwei/mining-game.svg)](https://greenkeeper.io/)
+
 To set up the project run `npm install`.
 
 # Testing
